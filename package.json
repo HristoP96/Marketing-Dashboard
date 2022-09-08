@@ -28,7 +28,7 @@
     "igniteui-angular-core": "^8.0.0",
     "igniteui-angular-gauges": "^8.0.0",
     "igniteui-angular-maps": "^8.0.0",
-    "jszip": "^3.1.5",
+    "jszip": "^3.7.0",
     "minireset.css": "~0.0.4",
     "rxjs": "~6.4.0",
     "tslib": "^1.9.0",
